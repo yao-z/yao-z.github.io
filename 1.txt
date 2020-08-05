@@ -1,0 +1,6 @@
+
+git config --global user.name 'yao-z'   初始化用户名
+git config --global user.email '1016243634@qq.com' 初始化邮箱                              mkdir css  新建文件css
+git clone https://github.com/yao-z/yao-z.github.io.git 下载仓库
+ls -al                查看工程目录 
+git push origin master同步
